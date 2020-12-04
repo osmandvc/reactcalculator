@@ -23,3 +23,18 @@
 .calcbutton {
     width: 100%;
 }
+
+.mrg {
+  margin: auto;
+  margin-top: 5%;
+  width: 800px;
+}
+
+.list {
+  margin-top: 10px;
+}
+
+.inputfield {
+  width: 100%;
+  margin-bottom: 5%;
+}
